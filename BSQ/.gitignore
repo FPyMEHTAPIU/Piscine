@@ -1,0 +1,8 @@
+# Project binaries
+/bsq
+
+# C compilation temporary files
+*.o
+
+# Vim swap files
+.*.sw?
